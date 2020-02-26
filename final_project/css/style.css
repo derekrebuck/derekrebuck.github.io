@@ -1,0 +1,76 @@
+@import url('https://fonts.googleapis.com/css?family=Open+Sans|Roboto&display=swap');
+body {
+  background-color: #639454;
+  color: white;
+  font-family: "Roboto"; sans-serif;
+
+}
+
+h1 {
+  text-align: center;
+  text-transform: uppercase;
+  letter-spacing: 2px;
+  background-color: darkgreen;
+border: 2px solid yellow;
+height:40px;
+padding: 10px 0;
+margin-top: 60px;
+margin-bottom: 60px;
+width: 600px;
+margin-left: auto;
+margin-right: auto;
+
+}
+
+h2 {
+  text-align: center;
+  font-weight: normal;
+  font-style: Strong;
+  font-size: 30px;
+  background-color: darkgreen;
+  border-top: 4px solid darkblue;
+  border-bottom: 4px solid darkblue;
+  margin-left: auto;
+  margin-right: auto;
+}
+h3 {
+  text-align: center;
+  font-size: strong;
+  font-size: 20px;
+}
+#first-list {
+  background-color: white;
+}
+
+#first-list li {
+  display: inline-block;
+  margin: 30px;
+  width: 8%
+  margin-left: auto;
+  margin-right: auto;
+
+}
+#second-list {
+  background-color: white;
+}
+
+#second-list li {
+  display: inline-block;
+  margin: 30px;
+  width: 8%
+
+}
+.mammals {
+  color: red;
+  font-weight: bold;
+}
+
+.birds {
+  color: blue;
+  font-style: italic;
+}
+
+.fish {
+  color: orange;
+  text-decoration: underline;
+}
