@@ -448,9 +448,9 @@
   .stump-city-small{
     position: absolute;
     display: block;
-    width:2.5%;
+    width:3%;
     Height:auto;
-    top: 79.5%;
+    top: 79.7%;
     left: 57.3%;
     z-index: 4;
       }
@@ -463,10 +463,10 @@
   .silver-mountain-small{
     position: absolute;
     display: block;
-    width:2.8%;
+    width:3.5%;
     Height:auto;
     top: 80%;
-    left: 42.3%;
+    left: 41.5%;
     z-index: 4;
       }
   
@@ -478,7 +478,7 @@
   .pups-small{
     position: absolute;
     display: block;
-    width:2.2%;
+    width:2.7%;
     Height:auto;
     top: 89.7%;
     left: 46.3%;
@@ -493,7 +493,7 @@
   .old-settlers-small{
     position: absolute;
     display: block;
-    width:2.2%;
+    width:2.7%;
     Height:auto;
     top: 86.2%;
     left: 41.6%;
@@ -508,9 +508,9 @@
   .north-country-small{
     position: absolute;
     display: block;
-    width:2.8%;
+    width:3.3%;
     Height:auto;
-    top: 81.2%;
+    top: 81.7%;
     left: 57.5%;
     z-index: 4;
       }
@@ -523,10 +523,10 @@
   .moonlight-small{
     position: absolute;
     display: block;
-    width:2%;
+    width:2.5%;
     Height:auto;
     top: 92.2%;
-    left: 52.5%;
+    left: 52.2%;
     z-index: 4;
       }
   
@@ -538,7 +538,7 @@
   .hermit-woods-Small{
     position: absolute;
     display: block;
-    width:1.4%;
+    width:1.7%;
     Height:auto;
     top: 64.2%;
     left: 51%;
@@ -553,9 +553,9 @@
   .farnum-Small{
     position: absolute;
     display: block;
-    width:1.7%;
+    width:2.2%;
     Height:auto;
-    top: 64%;
+    top: 63.5%;
     left: 42%;
     z-index: 4;
       }
@@ -568,7 +568,7 @@
   .contoocook-Small{
     position: absolute;
     display: block;
-    width:2%;
+    width:2.5%;
     Height:auto;
     top: 80.8%;
     left: 48.5%;
@@ -585,7 +585,7 @@
     display: block;
     width:2%;
     Height:auto;
-    top: 76.3%;
+    top: 75.4%;
     left: 56%;
     z-index: 4;
       }
@@ -598,10 +598,10 @@
   .bradford-bear-Small{
     position: absolute;
     display: block;
-    width:2%;
+    width:2.5%;
     Height:auto;
-    top: 77.8%;
-    left: 46%;
+    top: 77.6%;
+    left: 45.7%;
     z-index: 4;
       }
   

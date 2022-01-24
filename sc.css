@@ -377,10 +377,10 @@
   .Bee-Town-Small{
     position: absolute;
     display: block;
-    width:2%;
+    width:2.3%;
     Height:auto;
-    top: 93.8%;
-    left: 49.8%;
+    top: 93.5%;
+    left: 49.6%;
     z-index: 4;
       }
 
@@ -392,7 +392,7 @@
     .Windy-Hill-Small{
       position: absolute;
       display: block;
-      width:2.5%;
+      width:2.8%;
       Height:auto;
       top: 8%;
       left: 45.2%;
@@ -407,7 +407,7 @@
     .Ships-Wheel-Small{
       position: absolute;
       display: block;
-      width:2%;
+      width:2.3%;
       Height:auto;
       top: 74.1%;
       left: 59.8%;
@@ -423,10 +423,10 @@
     .Fat-Ass-Small{
       position: absolute;
       display: block;
-      width:2%;
+      width:2.5%;
       Height:auto;
       top: 8.3%;
-      left: 35.8%;
+      left: 35.6%;
       z-index: 2;  
     }
   
@@ -440,10 +440,10 @@
   .Ciclops-Small{
     position: absolute;
     display: block;
-    width:2%;
+    width:2.3%;
     Height:auto;
     top: 12%;
-    left: 38.4%;
+    left: 38.2%;
     z-index: 2;  
   }
 
