@@ -307,6 +307,58 @@ body {
 
 
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    .ia{
+      position: absolute;
+      display: block;
+      width:8.5%;
+      Height:auto;
+      top: 31.7%;
+      left: 50.3%;
+      z-index: 15;  
+      } 
+
+    a .ia:last-child {
+      display: none;  
+      }
+    
+    a:hover .ia:last-child {
+      display: block;  
+      }
+    
+    a:hover .ia:first-child {
+      display: none;  
+    }
+
     .ut{
       position: absolute;
       display: block;
