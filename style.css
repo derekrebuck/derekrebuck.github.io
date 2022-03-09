@@ -333,7 +333,27 @@ body {
 
 
 
+    .ne{
+      position: absolute;
+      display: block;
+      width:11.75%;
+      Height:auto;
+      top: 32.9%;
+      left: 40.06%;
+      z-index: 15;  
+      } 
 
+    a .ne:last-child {
+      display: none;  
+      }
+    
+    a:hover .ne:last-child {
+      display: block;  
+      }
+    
+    a:hover .ne:first-child {
+      display: none;  
+    }
 
     .nv{
       position: absolute;
