@@ -335,7 +335,27 @@ body {
 
 
 
+    .nv{
+      position: absolute;
+      display: block;
+      width:9.05%;
+      Height:auto;
+      top: 29.55%;
+      left: 17.68%;
+      z-index: 15;  
+      } 
 
+    a .nv:last-child {
+      display: none;  
+      }
+    
+    a:hover .nv:last-child {
+      display: block;  
+      }
+    
+    a:hover .nv:first-child {
+      display: none;  
+    }
 
     .ia{
       position: absolute;
