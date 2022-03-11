@@ -598,6 +598,28 @@ body {
       display: none;  
     }
 
+    .mo{
+      position: absolute;
+      display: block;
+      width:9.45%;
+      Height:auto;
+      top: 41.96%;
+      left: 51.485%;
+      z-index: 13;  
+      } 
+
+    a .mo:last-child {
+      display: none;  
+      }
+    
+    a:hover .mo:last-child {
+      display: block;  
+      }
+    
+    a:hover .mo:first-child {
+      display: none;  
+    }
+
     .ky{
       position: absolute;
       display: block;
