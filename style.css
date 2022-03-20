@@ -621,6 +621,29 @@ body {
       display: none;  
     }
 
+
+    .nm{
+      position: absolute;
+      display: block;
+      width:10%;
+      Height:auto;
+      top: 52.4%;
+      left: 30.8%;
+      z-index: 13;  
+      } 
+
+    a .nm:last-child {
+      display: none;  
+      }
+    
+    a:hover .nm:last-child {
+      display: block;  
+      }
+    
+    a:hover .nm:first-child {
+      display: none;  
+    } 
+
     .ok{
       position: absolute;
       display: block;
