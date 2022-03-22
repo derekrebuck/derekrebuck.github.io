@@ -644,6 +644,28 @@ body {
       display: none;  
     } 
 
+    .il{
+      position: absolute;
+      display: block;
+      width:5.67%;
+      Height:auto;
+      top: 34.73%;
+      left: 57.3%;
+      z-index: 15;  
+      } 
+
+    a .il:last-child {
+      display: none;  
+      }
+    
+    a:hover .il:last-child {
+      display: block;  
+      }
+    
+    a:hover .il:first-child {
+      display: none;  
+    } 
+
     .ok{
       position: absolute;
       display: block;
