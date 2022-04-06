@@ -472,7 +472,27 @@ body {
 
 
 
+    .wa{
+      position: absolute;
+      display: block;
+      width:9.65%;
+      Height:auto;
+      top: 3.78%;
+      left: 15.92%;
+      z-index: 13;  
+      } 
 
+    a .wa:last-child {
+      display: none;  
+      }
+    
+    a:hover .wa:last-child {
+      display: block;  
+      }
+    
+    a:hover .wa:first-child {
+      display: none;  
+    }
 
     .hi{
       position: absolute;
