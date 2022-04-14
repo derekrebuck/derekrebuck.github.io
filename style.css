@@ -470,7 +470,27 @@ body {
 
 
 
+    .oh{
+      position: absolute;
+      display: block;
+      width:5.95%;
+      Height:auto;
+      top: 34%;
+      left: 66.2%;
+      z-index: 13;  
+      } 
 
+    a .oh:last-child {
+      display: none;  
+      }
+    
+    a:hover .oh:last-child {
+      display: block;  
+      }
+    
+    a:hover .oh:first-child {
+      display: none;  
+    }
 
     .wa{
       position: absolute;
