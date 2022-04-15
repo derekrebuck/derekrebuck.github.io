@@ -470,6 +470,46 @@ body {
 
 
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    .tn{
+      position: absolute;
+      display: block;
+      width:12%;
+      Height:auto;
+      top: 53.3%;
+      left: 59.7%;
+      z-index: 13;  
+      } 
+
+    a .tn:last-child {
+      display: none;  
+      }
+    
+    a:hover .tn:last-child {
+      display: block;  
+      }
+    
+    a:hover .tn:first-child {
+      display: none;  
+    }    
+
     .oh{
       position: absolute;
       display: block;
