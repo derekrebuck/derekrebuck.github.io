@@ -484,9 +484,49 @@ body {
 
 
 
+    .az{
+      position: absolute;
+      display: block;
+      width:9.79%;
+      Height:auto;
+      top: 50.2%;
+      left: 22.33%;
+      z-index: 13;  
+      } 
 
+    a .az:last-child {
+      display: none;  
+      }
+    
+    a:hover .az:last-child {
+      display: block;  
+      }
+    
+    a:hover .az:first-child {
+      display: none;  
+    } 
 
+    .mi{
+      position: absolute;
+      display: block;
+      width:10.9%;
+      Height:auto;
+      top: 14.85%;
+      left: 58.1%;
+      z-index: 13;  
+      } 
 
+    a .mi:last-child {
+      display: none;  
+      }
+    
+    a:hover .mi:last-child {
+      display: block;  
+      }
+    
+    a:hover .mi:first-child {
+      display: none;  
+    }  
 
     .tn{
       position: absolute;
