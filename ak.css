@@ -400,7 +400,7 @@
     display: block;
     width:3.7%;
     Height:auto;
-    top: 83.5%;
+    top: 82.5%;
     left: 53.5%;
     z-index: 2;  
   }
@@ -414,7 +414,7 @@
     display: block;
     width:1.6%;
     Height:auto;
-    top: 85.5%;
+    top: 87%;
     left: 54.5%;
     z-index: 2;  
   }
@@ -437,7 +437,34 @@
     transform: scale(1.5);
   } 
 
+  .wild-north-Small2{
+    position: absolute;
+    display: block;
+    width:1.8%;
+    Height:auto;
+    top: 84.0%;
+    left: 54.5%;
+    z-index: 2;  
+  }
+
+  .wild-north-Small2:hover{
+    transform: scale(1.5);
+  } 
+
   .wild-north-Small{
+    position: absolute;
+    display: block;
+    width:1.8%;
+    Height:auto;
+    top: 78.6%;
+    left: 57.8%;
+    z-index: 2;  
+  }
+
+  .wild-north-Small:hover{
+    transform: scale(1.5);
+  } 
+  .wild-north-Small3{
     position: absolute;
     display: block;
     width:1.8%;
@@ -447,10 +474,9 @@
     z-index: 2;  
   }
 
-  .wild-north-Small:hover{
+  .wild-north-Small3:hover{
     transform: scale(1.5);
   } 
-
 
 
 
