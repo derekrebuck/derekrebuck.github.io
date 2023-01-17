@@ -478,7 +478,19 @@
     transform: scale(1.5);
   } 
 
+  .lat65-Small{
+    position: absolute;
+    display: block;
+    width:1.4%;
+    Height:auto;
+    top: 39%;
+    left: 51.2%;
+    z-index: 2;  
+  }
 
+  .lat65-Small:hover{
+    transform: scale(1.5);
+  } 
 
 
 
