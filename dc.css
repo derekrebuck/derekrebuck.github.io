@@ -4,6 +4,29 @@
   box-sizing: border-box;
 }
 
+  
+.last{
+
+  background-color: brown;
+  padding: 0px 0px;
+}
+
+  .last-update{
+    height: 25px;
+    overflow: hidden;
+    position: relative; 
+    border-top-left-radius: 5px;
+    border-top-right-radius: 5px; 
+    text-align: center;
+    color:white;
+    font-family:"Lato";
+
+
+  }
+
+
+
+
 body {
   margin: 0;
   padding: 0;
