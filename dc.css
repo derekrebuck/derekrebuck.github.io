@@ -395,18 +395,6 @@ article {
   transform: “translate(-50%, 0%) ” + “scale(” + scale + “)
 }
 
-
-
-.Capital-Small{
-  position: absolute;
-  display: block;
-  width:2%;
-  Height:auto;
-  top: 25.2%;
-  left: 47.6%;
-  z-index: 3;
-    }
-
 .Anxo-Small{
   position: absolute;
   display: block;
@@ -416,24 +404,6 @@ article {
   left: 48%;
   z-index: 4;
     }
-
-.Supreme-Core-Logo-Small{
-  position: absolute;
-  display: block;
-  width:1.7%;
-  Height:auto;
-  top: 38%;
-  left: 55%;
-  z-index: 2;  
-}
-
-.Capital-Small:hover{
-  transform: scale(1.5);
-}
-
-.Supreme-Core-Logo-Small:hover{
-  transform: scale(1.5);
-}
 
 .Anxo-Small:hover{
   transform: scale(1.5);
