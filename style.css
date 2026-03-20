@@ -1,0 +1,1453 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+body {
+  margin: 0;
+  padding: 0;
+  font-family: 'Lato', sans-serif;
+  color: #454545;
+  
+}
+
+
+
+.statecolor {
+  fill: #A72C2A;
+}
+
+.statecolor:hover {
+  fill: #fff
+}
+
+.statecolor:hover .cls-2 {
+  fill: #48A8BD;
+}
+
+
+.Cider-map{
+  display: block; 
+  position: relative;
+  max-width: 100%;
+  background: #48A8BD;
+  }
+
+  .us{
+    padding-top:2%;
+    padding-bottom:2%;
+    position:relative;
+    margin: auto;
+    display: block;
+    width:76%;
+    z-index: 1;
+    }
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    .ct{
+      position: absolute;
+      display: block;
+      width:2.4%;
+      Height:auto;
+      top: 29.35%;
+      left: 81.15%;
+      z-index: 12;  
+      } 
+
+    a .ct:last-child {
+      display: none;  
+      }
+    
+    a:hover .ct:last-child {
+      display: block;  
+      }
+    
+    a:hover .ct:first-child {
+      display: none;  
+    }
+
+    .de{
+      position: absolute;
+      display: block;
+      width:1.4%;
+      Height:auto;
+      top: 39.15%;
+      left: 79.04%;
+      z-index: 12;  
+      } 
+
+    a .de:last-child {
+      display: none;  
+      }
+    
+    a:hover .de:last-child {
+      display: block;  
+      }
+    
+    a:hover .de:first-child {
+      display: none;  
+    }
+
+    .dc{
+      position: absolute;
+      display: block;
+      width:10%;
+      Height:auto;
+      top: 41.25%;
+      left: 77.35%;
+      z-index: 7;  
+      } 
+
+    a .dc:last-child {
+      display: none;  
+      }
+    
+    a:hover .dc:last-child {
+      display: block;  
+      }
+    
+    a:hover .dc:first-child {
+      display: none;  
+    }
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    .nj{
+      position: absolute;
+      display: block;
+      width:1.9%;
+      Height:auto;
+      top: 33.4%;
+      left: 79.35%;
+      z-index: 8;  
+      } 
+
+    a .nj:last-child {
+      display: none;  
+      }
+    
+    a:hover .nj:last-child {
+      display: block;  
+      }
+    
+    a:hover .nj:first-child {
+      display: none;  
+    }
+
+    .ny{
+      position: absolute;
+      display: block;
+      width:11.0%;
+      Height:auto;
+      top: 19.9%;
+      left: 72.7%;
+      z-index: 6;  
+      } 
+
+    a .ny:last-child {
+      display: none;  
+      }
+    
+    a:hover .ny:last-child {
+      display: block;  
+      }
+    
+    a:hover .ny:first-child {
+      display: none;  
+    }
+
+    .me{
+      position: absolute;
+      display: block;
+      width:5.2%;
+      Height:auto;
+      top: 8.87%;
+      left: 82.75%;
+      z-index: 9;  
+      } 
+
+    a .me:last-child {
+      display: none;  
+      }
+    
+    a:hover .me:last-child {
+      display: block;  
+      }
+    
+    a:hover .me:first-child {
+      display: none;  
+    }
+
+    .nc{
+      position: absolute;
+      display: block;
+      width:12.9%;
+      Height:auto;
+      top: 50.42%;
+      left: 68.3%;
+      z-index: 6;  
+      } 
+
+    a .nc:last-child {
+      display: none;  
+      }
+    
+    a:hover .nc:last-child {
+      display: block;  
+      }
+    
+    a:hover .nc:first-child {
+      display: none;  
+    }
+
+    .nh{
+      position: absolute;
+      display: block;
+      width:2.3%;
+      Height:auto;
+      top: 17.75%;
+      left: 81.9%;
+      z-index: 10;  
+      } 
+
+    a .nh:last-child {
+      display: none;  
+      }
+    
+    a:hover .nh:last-child {
+      display: block;  
+      }
+    
+    a:hover .nh:first-child {
+      display: none;  
+    }
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    .ne{
+      position: absolute;
+      display: block;
+      width:11.75%;
+      Height:auto;
+      top: 32.9%;
+      left: 40.06%;
+      z-index: 15;  
+      } 
+
+    a .ne:last-child {
+      display: none;  
+      }
+    
+    a:hover .ne:last-child {
+      display: block;  
+      }
+    
+    a:hover .ne:first-child {
+      display: none;  
+    }
+
+    .nv{
+      position: absolute;
+      display: block;
+      width:9.05%;
+      Height:auto;
+      top: 29.55%;
+      left: 17.68%;
+      z-index: 15;  
+      } 
+
+    a .nv:last-child {
+      display: none;  
+      }
+    
+    a:hover .nv:last-child {
+      display: block;  
+      }
+    
+    a:hover .nv:first-child {
+      display: none;  
+    }
+
+    .ia{
+      position: absolute;
+      display: block;
+      width:8.5%;
+      Height:auto;
+      top: 31.7%;
+      left: 50.3%;
+      z-index: 15;  
+      } 
+
+    a .ia:last-child {
+      display: none;  
+      }
+    
+    a:hover .ia:last-child {
+      display: block;  
+      }
+    
+    a:hover .ia:first-child {
+      display: none;  
+    }
+
+    .ut{
+      position: absolute;
+      display: block;
+      width:7.9%;
+      Height:auto;
+      top: 32.9%;
+      left: 25.15%;
+      z-index: 13;  
+      } 
+
+    a .ut:last-child {
+      display: none;  
+      }
+    
+    a:hover .ut:last-child {
+      display: block;  
+      }
+    
+    a:hover .ut:first-child {
+      display: none;  
+    }
+
+    .ar{
+      position: absolute;
+      display: block;
+      width:7.15%;
+      Height:auto;
+      top: 56.13%;
+      left: 53.05%;
+      z-index: 13;  
+      } 
+
+    a .ar:last-child {
+      display: none;  
+      }
+    
+    a:hover .ar:last-child {
+      display: block;  
+      }
+    
+    a:hover .ar:first-child {
+      display: none;  
+    }
+
+    .ak{
+      position: absolute;
+      display: block;
+      width:17.5%;
+      Height:auto;
+      top: 71.4%;
+      left: 11.8%;
+      z-index: 13;  
+      } 
+
+    a .ak:last-child {
+      display: none;  
+      }
+    
+    a:hover .ak:last-child {
+      display: block;  
+      }
+    
+    a:hover .ak:first-child {
+      display: none;  
+    }
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    .az{
+      position: absolute;
+      display: block;
+      width:9.79%;
+      Height:auto;
+      top: 50.2%;
+      left: 22.33%;
+      z-index: 13;  
+      } 
+
+    a .az:last-child {
+      display: none;  
+      }
+    
+    a:hover .az:last-child {
+      display: block;  
+      }
+    
+    a:hover .az:first-child {
+      display: none;  
+    } 
+
+    .mi{
+      position: absolute;
+      display: block;
+      width:10.9%;
+      Height:auto;
+      top: 14.85%;
+      left: 58.1%;
+      z-index: 13;  
+      } 
+
+    a .mi:last-child {
+      display: none;  
+      }
+    
+    a:hover .mi:last-child {
+      display: block;  
+      }
+    
+    a:hover .mi:first-child {
+      display: none;  
+    }  
+
+    .tn{
+      position: absolute;
+      display: block;
+      width:12%;
+      Height:auto;
+      top: 53.3%;
+      left: 59.7%;
+      z-index: 13;  
+      } 
+
+    a .tn:last-child {
+      display: none;  
+      }
+    
+    a:hover .tn:last-child {
+      display: block;  
+      }
+    
+    a:hover .tn:first-child {
+      display: none;  
+    }    
+
+    .oh{
+      position: absolute;
+      display: block;
+      width:5.95%;
+      Height:auto;
+      top: 34%;
+      left: 66.2%;
+      z-index: 13;  
+      } 
+
+    a .oh:last-child {
+      display: none;  
+      }
+    
+    a:hover .oh:last-child {
+      display: block;  
+      }
+    
+    a:hover .oh:first-child {
+      display: none;  
+    }
+
+    .wa{
+      position: absolute;
+      display: block;
+      width:9.65%;
+      Height:auto;
+      top: 3.78%;
+      left: 15.92%;
+      z-index: 13;  
+      } 
+
+    a .wa:last-child {
+      display: none;  
+      }
+    
+    a:hover .wa:last-child {
+      display: block;  
+      }
+    
+    a:hover .wa:first-child {
+      display: none;  
+    }
+
+    .hi{
+      position: absolute;
+      display: block;
+      width:9.35%;
+      Height:auto;
+      top: 83.78%;
+      left: 30.04%;
+      z-index: 13;  
+      } 
+
+    a .hi:last-child {
+      display: none;  
+      }
+    
+    a:hover .hi:last-child {
+      display: block;  
+      }
+    
+    a:hover .hi:first-child {
+      display: none;  
+    }
+
+    .ri{
+      position: absolute;
+      display: block;
+      width:1.1%;
+      Height:auto;
+      top: 29.1%;
+      left: 83.35%;
+      z-index: 13;  
+      } 
+
+    a .ri:last-child {
+      display: none;  
+      }
+    
+    a:hover .ri:last-child {
+      display: block;  
+      }
+    
+    a:hover .ri:first-child {
+      display: none;  
+    }
+
+    .sc{
+      position: absolute;
+      display: block;
+      width:7.2%;
+      Height:auto;
+      top: 58.1%;
+      left: 69.9%;
+      z-index: 6;  
+      } 
+
+    a .sc:last-child {
+      display: none;  
+      }
+    
+    a:hover .sc:last-child {
+      display: block;  
+      }
+    
+    a:hover .sc:first-child {
+      display: none;  
+    }
+
+    .va{
+      position: absolute;
+      display: block;
+      width:11.05%;
+      Height:auto;
+      top: 42%;
+      left: 69.3%;
+      z-index: 11;  
+      } 
+
+    a .va:last-child {
+      display: none;  
+      }
+    
+    a:hover .va:last-child {
+      display: block;  
+      }
+    
+    a:hover .va:first-child {
+      display: none;  
+    }
+
+
+    .md{
+      position: absolute;
+      display: block;
+      width:6.45%;
+      Height:auto;
+      top: 39.65%;
+      left: 74.05%;
+      z-index: 9;  
+      } 
+
+    a .md:last-child {
+      display: none;  
+      }
+    
+    a:hover .md:last-child {
+      display: block;  
+      }
+    
+    a:hover .md:first-child {
+      display: none;  
+    }
+
+    .wv{
+      position: absolute;
+      display: block;
+      width:6.4%;
+      Height:auto;
+      top: 38.9%;
+      left: 70.0%;
+      z-index: 12;  
+      } 
+
+    a .wv:last-child {
+      display: none;  
+      }
+    
+    a:hover .wv:last-child {
+      display: block;  
+      }
+    
+    a:hover .wv:first-child {
+      display: none;  
+    }
+
+    .wy{
+      position: absolute;
+      display: block;
+      width:10%;
+      Height:auto;
+      top: 23.8%;
+      left: 30.55%;
+      z-index: 12;  
+      } 
+
+    a .wy:last-child {
+      display: none;  
+      }
+    
+    a:hover .wy:last-child {
+      display: block;  
+      }
+    
+    a:hover .wy:first-child {
+      display: none;  
+    }
+
+
+    .mn{
+      position: absolute;
+      display: block;
+      width:9.5%;
+      Height:auto;
+      top: 11.5%;
+      left: 49.55%;
+      z-index: 15;  
+      } 
+
+    a .mn:last-child {
+      display: none;  
+      }
+    
+    a:hover .mn:last-child {
+      display: block;  
+      }
+    
+    a:hover .mn:first-child {
+      display: none;  
+    }
+
+
+    .nm{
+      position: absolute;
+      display: block;
+      width:10%;
+      Height:auto;
+      top: 52.4%;
+      left: 30.8%;
+      z-index: 13;  
+      } 
+
+    a .nm:last-child {
+      display: none;  
+      }
+    
+    a:hover .nm:last-child {
+      display: block;  
+      }
+    
+    a:hover .nm:first-child {
+      display: none;  
+    } 
+
+    .in{
+      position: absolute;
+      display: block;
+      width:4.2%;
+      Height:auto;
+      top: 36.4%;
+      left: 62.505%;
+      z-index: 15;  
+      } 
+
+    a .in:last-child {
+      display: none;  
+      }
+    
+    a:hover .in:last-child {
+      display: block;  
+      }
+    
+    a:hover .in:first-child {
+      display: none;  
+    } 
+
+    .id{
+      position: absolute;
+      display: block;
+      width:8.5%;
+      Height:auto;
+      top: 7.2%;
+      left: 22.87%;
+      z-index: 15;  
+      } 
+
+    a .id:last-child {
+      display: none;  
+      }
+    
+    a:hover .id:last-child {
+      display: block;  
+      }
+    
+    a:hover .id:first-child {
+      display: none;  
+    } 
+
+    .il{
+      position: absolute;
+      display: block;
+      width:5.67%;
+      Height:auto;
+      top: 34.73%;
+      left: 57.3%;
+      z-index: 15;  
+      } 
+
+    a .il:last-child {
+      display: none;  
+      }
+    
+    a:hover .il:last-child {
+      display: block;  
+      }
+    
+    a:hover .il:first-child {
+      display: none;  
+    } 
+
+    .ok{
+      position: absolute;
+      display: block;
+      width:12.41%;
+      Height:auto;
+      top: 54.2%;
+      left: 40.85%;
+      z-index: 13;  
+      } 
+
+    a .ok:last-child {
+      display: none;  
+      }
+    
+    a:hover .ok:last-child {
+      display: block;  
+      }
+    
+    a:hover .ok:first-child {
+      display: none;  
+    } 
+
+    .nd{
+      position: absolute;
+      display: block;
+      width:9.41%;
+      Height:auto;
+      top: 11.91%;
+      left: 40.85%;
+      z-index: 13;  
+      } 
+
+    a .nd:last-child {
+      display: none;  
+      }
+    
+    a:hover .nd:last-child {
+      display: block;  
+      }
+    
+    a:hover .nd:first-child {
+      display: none;  
+    } 
+
+    .la{
+      position: absolute;
+      display: block;
+      width:8.15%;
+      Height:auto;
+      top: 68.6%;
+      left: 54.04%;
+      z-index: 13;  
+      } 
+
+    a .la:last-child {
+      display: none;  
+      }
+    
+    a:hover .la:last-child {
+      display: block;  
+      }
+    
+    a:hover .la:first-child {
+      display: none;  
+    }   
+
+    .fl{
+      position: absolute;
+      display: block;
+      width:13.2%;
+      Height:auto;
+      top: 73.4%;
+      left: 64.1%;
+      z-index: 13;  
+      } 
+
+    a .fl:last-child {
+      display: none;  
+      }
+    
+    a:hover .fl:last-child {
+      display: block;  
+      }
+    
+    a:hover .fl:first-child {
+      display: none;  
+    }
+
+    .mt{
+      position: absolute;
+      display: block;
+      width:14.73%;
+      Height:auto;
+      top: 7.8%;
+      left: 26.485%;
+      z-index: 13;  
+      } 
+
+    a .mt:last-child {
+      display: none;  
+      }
+    
+    a:hover .mt:last-child {
+      display: block;  
+      }
+    
+    a:hover .mt:first-child {
+      display: none;  
+    }
+
+    .mo{
+      position: absolute;
+      display: block;
+      width:9.45%;
+      Height:auto;
+      top: 41.96%;
+      left: 51.485%;
+      z-index: 13;  
+      } 
+
+    a .mo:last-child {
+      display: none;  
+      }
+    
+    a:hover .mo:last-child {
+      display: block;  
+      }
+    
+    a:hover .mo:first-child {
+      display: none;  
+    }
+
+    .ky{
+      position: absolute;
+      display: block;
+      width:10.2%;
+      Height:auto;
+      top: 45.6%;
+      left: 60.75%;
+      z-index: 13;  
+      } 
+
+    a .ky:last-child {
+      display: none;  
+      }
+    
+    a:hover .ky:last-child {
+      display: block;  
+      }
+    
+    a:hover .ky:first-child {
+      display: none;  
+    }
+
+    .ks{
+      position: absolute;
+      display: block;
+      width:10.67%;
+      Height:auto;
+      top: 43.7%;
+      left: 42.27%;
+      z-index: 13;  
+      } 
+
+    a .ks:last-child {
+      display: none;  
+      }
+    
+    a:hover .ks:last-child {
+      display: block;  
+      }
+    
+    a:hover .ks:first-child {
+      display: none;  
+    }
+
+    .pa{
+      position: absolute;
+      display: block;
+      width:8.345%;
+      Height:auto;
+      top: 31.55%;
+      left: 71.8%;
+      z-index: 7;  
+      } 
+
+    a .pa:last-child {
+      display: none;  
+      }
+    
+    a:hover .pa:last-child {
+      display: block;  
+      }
+    
+    a:hover .pa:first-child {
+      display: none;  
+    }
+
+    .ma{
+      position: absolute;
+      display: block;
+      width:5%;
+      Height:auto;
+      top: 25.7%;
+      left: 81.15%;
+      z-index: 12;  
+      } 
+
+    a .ma:last-child {
+      display: none;  
+      }
+    
+    a:hover .ma:last-child {
+      display: block;  
+      }
+    
+    a:hover .ma:first-child {
+      display: none;  
+    }
+
+    .vt{
+      position: absolute;
+      display: block;
+      width:2.3%;
+      Height:auto;
+      top: 18.9%;
+      left: 80.05%;
+      z-index: 9;  
+      } 
+
+    a .vt:last-child {
+      display: none;  
+      }
+    
+    a:hover .vt:last-child {
+      display: block;  
+      }
+    
+    a:hover .vt:first-child {
+      display: none;  
+    }
+
+
+
+
+
+
+
+
+
+
+.map:hover{
+  transform: scale(0.8);
+}
+
+
+.title{
+  color:brown
+}
+
+.title:hover{
+  color:#47A8BD
+}
+
+.nav-bar {
+   height: 70px;
+   background: #a52a2a;
+}
+  
+.brand {
+   position: absolute;
+   padding-left: 20px;
+   padding-top: 10px;
+   float: left;
+   line-height: 70px;
+   text-transform: uppercase;
+   font-size: 1.4em;
+}
+
+.brand a img {
+  max-height: 70px;
+}
+
+.brand a,
+.brand a:visited {
+   color: #ffffff;
+   text-decoration: none;
+}
+  
+.nav-container {
+   max-width: 1600px;
+   margin: 0 auto;
+}
+  
+nav {
+   float: right;
+}
+
+nav ul {
+   list-style: none;
+   margin: 0;
+   padding: 0;
+}
+
+nav ul li {
+   float: left;
+   position: relative;
+   z-index:50;
+}
+
+nav ul li a,
+nav ul li a:visited {
+   display: block;
+   padding: 0 20px;
+   line-height: 70px;
+   background: brown;
+   color: #ffffff;
+   text-decoration: none;
+}
+
+nav ul li a:hover,
+nav ul li a:visited:hover {
+   background: #47A8BD;
+   color: #ffffff;
+}
+
+nav ul li a:not(:only-child):after,
+nav ul li a:visited:not(:only-child):after {
+   padding-left: 4px;
+   content: ' ▾';
+}
+
+nav ul li ul li {
+  min-width: 100%;
+}
+
+nav ul li ul li a {
+   padding: 15px;
+   line-height: 20px;
+}
+  
+.nav-dropdown {
+  background: #ffffff;
+  color: #a52a2a;
+   position: absolute;
+   display: none;
+   z-index: 1;
+   box-shadow: 0 3px 12px rgba(0, 0, 0, 0.15);
+}
+
+.nav-mobile {
+   display: none;
+   position: absolute;
+   top: 0;
+   right: 0;
+   background: #262626;
+   height: 70px;
+   width: 70px;
+}
+
+footer {
+  background-color:brown;
+  color: white;
+  font-family:"Lato";
+}
+ 
+.copyright{
+  font-size: 8pt;  
+  Padding: 5px 40px;
+  }
+ 
+  
+ @media only screen and (max-width: 798px) {
+
+.copyright{
+  text-align: center;
+}
+
+
+  .bottom {
+    list-style-type: none;
+    Display: flex;
+    Padding-right: 40px;
+    Padding-top:20px;
+    Padding-bottom:3px;
+    justify-content:space-between;
+    font-size: 0pt;
+  }
+
+.container {
+  Display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  width: 90%;
+  Padding-top: 5%;
+  padding-left: 5%;
+  padding-left: 5%;
+}
+  
+.state{
+  width: 100%;
+  margin: 0px;
+  padding-top: 25px;
+}
+  
+.state img{
+  display: block;
+  max-height: auto; 
+  width: 100%; 
+  margin: 0px; 
+}
+  
+h1 {
+  text-align: center;
+  font-family: 'Open Sans';
+  
+}
+
+a:link {
+  text-decoration: none;
+
+  }
+
+a:hover {
+  color: #47A8BD
+}
+
+.nav-mobile {
+  display: block;
+}
+  
+h4{
+  text-align: center;
+  margin: 0px;
+  Padding:10px;
+}
+ 
+.nav-menu-title{
+  font-family: 'lato';
+  font-size: 18px; 
+}
+   
+nav {
+  width: 100%;
+  padding: 70px 0 0px;
+}
+
+nav ul {
+  display: none;
+}
+
+nav ul li {
+  float: none;
+}
+
+nav ul li a {
+  padding: 15px;
+  line-height: 20px;
+  text-align: center; 
+}
+
+nav ul li ul li a {
+  text-align: center;
+}
+  
+.nav-dropdown {
+  position: static;
+}
+
+.brand a img {
+  max-height: 60px;
+  margin-top: 5px;
+}
+}
+ 
+ @media screen and (min-width: 799px) {
+  
+.nav-list {
+  display: block !important;
+}
+
+.bottom {
+  list-style-type: none;
+  Display: flex;
+  Padding-left: 35px;
+  Padding-top:20px;
+  margin:8px;
+  justify-content:space-between;
+  Width:30%;  
+  font-size: 16pt;
+}
+
+
+
+h4{
+  padding-left: 5px;
+  margin: 10px;
+}
+   
+.nav-menu-title{
+  font-family: 'lato';
+  font-size: 20px; 
+} 
+    
+    .container {
+      display: grid;
+      grid-template-columns: repeat(3, 1fr);
+      background-color: white;
+       gap: 15px;
+       padding: 15px 15px;
+
+    }
+    
+    .state{
+      width: 100%;
+      margin: 0px;
+      padding-top: 0px;
+    }
+    
+    .state img{
+      display: block;
+      width: 100%;
+      max-height: 450px; 
+    
+      margin: 0px; 
+    }
+    
+    h1 {
+      text-align: center;
+      font-family: 'Open Sans';
+    
+    }
+    a:link {
+      text-decoration: none;
+    }
+}
+
+ #nav-toggle {
+   position: absolute;
+   left: 18px;
+   top: 22px;
+   cursor: pointer;
+   padding: 10px 35px 16px 0px;
+ }
+
+ #nav-toggle span,
+ #nav-toggle span:before,
+ #nav-toggle span:after {
+   cursor: pointer;
+   border-radius: 1px;
+   height: 5px;
+   width: 35px;
+   background: #ffffff;
+   position: absolute;
+   display: block;
+   content: '';
+   transition: all 300ms ease-in-out;
+ }
+
+ #nav-toggle span:before {
+   top: -10px;
+ }
+
+ #nav-toggle span:after {
+   bottom: -10px;
+ }
+
+ #nav-toggle.active span {
+   background-color: transparent;
+ }
+
+ #nav-toggle.active span:before, #nav-toggle.active span:after {
+   top: 0;
+ }
+
+ #nav-toggle.active span:before {
+   transform: rotate(45deg);
+ }
+
+ #nav-toggle.active span:after {
+   transform: rotate(-45deg);
+ }
+
+   .heroimage{
+    width: 100%;
+    margin: 0px 0px;
+    padding: 0px 0px;
+    }
+
